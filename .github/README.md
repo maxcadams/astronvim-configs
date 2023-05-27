@@ -1,3 +1,5 @@
+#Tinkering a little, learning a little
+
 # AstroNvim User Configuration Example
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
