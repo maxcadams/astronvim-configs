@@ -1,4 +1,4 @@
-#Tinkering a little, learning a little
+# Tinkering a little, learning a little
 
 # AstroNvim User Configuration Example
 
